@@ -1,0 +1,8 @@
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\VECT_reservaQuartos.net\VECT_reservaQuartos.net\bin\Debug\VECT_reservaQuartos.net.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\VECT_reservaQuartos.net\VECT_reservaQuartos.net\bin\Debug\VECT_reservaQuartos.net.exe
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\VECT_reservaQuartos.net\VECT_reservaQuartos.net\bin\Debug\VECT_reservaQuartos.net.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\VECT_reservaQuartos.net\VECT_reservaQuartos.net\obj\Debug\VECT_reservaQuartos.net.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\VECT_reservaQuartos.net\VECT_reservaQuartos.net\obj\Debug\VECT_reservaQuartos.net.csproj.SuggestedBindingRedirects.cache
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\VECT_reservaQuartos.net\VECT_reservaQuartos.net\obj\Debug\VECT_reservaQuartos.net.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\VECT_reservaQuartos.net\VECT_reservaQuartos.net\obj\Debug\VECT_reservaQuartos.net.exe
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\VECT_reservaQuartos.net\VECT_reservaQuartos.net\obj\Debug\VECT_reservaQuartos.net.pdb
